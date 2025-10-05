@@ -3,52 +3,32 @@
   "WorkspaceRootPath": "E:\\Workspace\\Unity3D\\Zombie-Survival\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|e:\\workspace\\unity3d\\zombie-survival\\assets\\_complete-game\\scripts\\player\\powerupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\player\\powerupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\_complete-game\\scripts\\player\\playerbuffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\player\\playerbuffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\powerup\\speedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup\\speedup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\player\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\powerup\\healing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup\\healing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\_complete-game\\scripts\\toast\\pickupmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\toast\\pickupmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|e:\\workspace\\unity3d\\zombie-survival\\assets\\_complete-game\\scripts\\toast\\pickuptoast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\toast\\pickuptoast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\powerup\\damagepowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup\\damagepowerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\_complete-game\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\manager\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\powerupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\factory\\powerupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\powerupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\_complete-game\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\_complete-game\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|E:\\Workspace\\Unity3D\\Zombie-Survival\\assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BC7D138-50B2-B01C-CFB3-9927A00F684F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\factory\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,151 +46,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SpeedUp.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\SpeedUp.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp\\SpeedUp.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\SpeedUp.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PowerUp\\SpeedUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Player\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerShooting.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Player\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerShooting.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:44:00.234Z",
+              "WhenOpened": "2025-10-05T06:54:18.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerUpItem.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Player\\PowerUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Player\\PowerUpItem.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Player\\PowerUpItem.cs",
+              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Player\\PowerUpItem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:31:57.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Healing.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\Healing.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp\\Healing.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\Healing.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PowerUp\\Healing.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DamagePowerUp.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\DamagePowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp\\DamagePowerUp.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\DamagePowerUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUp\\DamagePowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:43:30.385Z",
+              "WhenOpened": "2025-10-04T14:48:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerBuffController.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Player\\PlayerBuffController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Player\\PlayerBuffController.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Player\\PlayerBuffController.cs",
+              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Player\\PlayerBuffController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:38:11.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PickupMessageManager.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Toast\\PickupMessageManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Toast\\PickupMessageManager.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Toast\\PickupMessageManager.cs",
-              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Toast\\PickupMessageManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAAZAAAAAAAAAA==",
+              "Title": "SpeedUp.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\SpeedUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp\\SpeedUp.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\SpeedUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUp\\SpeedUp.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:35:45.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PickupToast.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Toast\\PickupToast.cs",
-              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Toast\\PickupToast.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Toast\\PickupToast.cs",
-              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Toast\\PickupToast.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T15:57:33.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PowerUpFactory.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Factory\\PowerUpFactory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\PowerUpFactory.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Factory\\PowerUpFactory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Factory\\PowerUpFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:18:22.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PowerUpManager.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Manager\\PowerUpManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\PowerUpManager.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Manager\\PowerUpManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Manager\\PowerUpManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvx0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T11:17:49.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T04:34:43.866Z"
+              "WhenOpened": "2025-09-27T16:44:00.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Healing.cs",
+              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\Healing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp\\Healing.cs",
+              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\PowerUp\\Healing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUp\\Healing.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:43:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
               "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAkwE8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:51:14.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyMovement.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyMovement.cs",
-              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyMovement.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:33:18.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemyAttack.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyAttack.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyAttack.cs",
-              "RelativeToolTip": "Assets\\_Complete-Game\\Scripts\\Enemy\\EnemyAttack.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwEkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:32:47.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnemyManager.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Manager\\EnemyManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\EnemyManager.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Manager\\EnemyManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Manager\\EnemyManager.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:25:21.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EnemyFactory.cs",
-              "DocumentMoniker": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
-              "ToolTip": "E:\\Workspace\\Unity3D\\Zombie-Survival\\Assets\\Scripts\\Factory\\EnemyFactory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Factory\\EnemyFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:23:44.328Z"
             }
           ]
         }

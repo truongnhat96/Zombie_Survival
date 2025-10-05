@@ -73,6 +73,7 @@
     <Compile Include="Assets\_Complete-Game\MobileInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\_Complete-Game\Scripts\Enemy\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Factory\PowerUpFactory.cs" />
+    <Compile Include="Assets\Scripts\PowerUp\DamagePowerUp.cs" />
     <Compile Include="Assets\_Complete-Game\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerDetector.cs" />
     <Compile Include="Assets\Scripts\Factory\EnemyFactory.cs" />
@@ -82,6 +83,7 @@
     <Compile Include="Assets\_Complete-Game\Scripts\Managers\GameOverManager.cs" />
     <Compile Include="Assets\Scripts\Command\Command.cs" />
     <Compile Include="Assets\Scripts\Manager\ScoreManager.cs" />
+    <Compile Include="Assets\_Complete-Game\Scripts\Player\PlayerBuffController.cs" />
     <Compile Include="Assets\Scripts\PowerUp\Healing.cs" />
     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Command\InputHandler.cs" />
@@ -103,6 +105,7 @@
     <Compile Include="Assets\Scripts\Enemy\EnemyAttack.cs" />
     <Compile Include="Assets\Scripts\Command\MoveCommand.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
+    <Compile Include="Assets\_Complete-Game\Scripts\Player\PowerUpItem.cs" />
     <Compile Include="Assets\_Complete-Game\MobileInput\Scripts\MobileControlRig.cs" />
     <Compile Include="Assets\_Complete-Game\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Factory\IFactory.cs" />

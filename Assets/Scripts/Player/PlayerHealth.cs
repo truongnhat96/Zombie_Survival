@@ -58,6 +58,12 @@ public class PlayerHealth : MonoBehaviour
     {
         damaged = true;
 
+        // Khi player bị trúng đòn, mất buff tăng sát thương ngay lập tức
+        if (PlayerBuffController.Instance != null)
+        {
+            PlayerBuffController.Instance.ClearDamageBuff();
+        }
+
         //mengurangi health
         currentHealth -= amount;
 
@@ -73,6 +79,7 @@ public class PlayerHealth : MonoBehaviour
             Death();
         }
     }
+
 
     // fungsi untuk menambah nyawa
     public void Healing()

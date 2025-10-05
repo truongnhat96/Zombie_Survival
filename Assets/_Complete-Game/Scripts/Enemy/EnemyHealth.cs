@@ -10,6 +10,10 @@ namespace CompleteProject
         public int scoreValue = 10;                 // The amount added to the player's score when the enemy dies.
         public AudioClip deathClip;                 // The sound to play when the enemy dies.
 
+        public GameObject powerUpPrefab;          // Prefab vật phẩm rơi
+        public GameObject spawnEffectPrefab;      // Hiệu ứng particle khi vật phẩm spawn
+        [Range(0f, 1f)] public float dropChance = 0.2f; // Xác suất rơi 20%
+
 
         Animator anim;                              // Reference to the animator.
         AudioSource enemyAudio;                     // Reference to the audio source.
@@ -85,6 +89,25 @@ namespace CompleteProject
             // Change the audio clip of the audio source to the death clip and play it (this will stop the hurt clip playing).
             enemyAudio.clip = deathClip;
             enemyAudio.Play ();
+
+            TrySpawnPowerUp();
+        }
+
+        void TrySpawnPowerUp()
+        {
+            // Random 0–1, nếu nhỏ hơn dropChance thì spawn
+            if (Random.value <= dropChance && powerUpPrefab != null)
+            {
+                // Spawn powerup tại vị trí enemy
+                GameObject item = Instantiate(powerUpPrefab, transform.position + Vector3.up * 0.5f, Quaternion.identity);
+
+                // Nếu có hiệu ứng spawn
+                if (spawnEffectPrefab != null)
+                {
+                    GameObject fx = Instantiate(spawnEffectPrefab, transform.position, Quaternion.identity);
+                    Destroy(fx, 2f); // Xóa hiệu ứng sau 2 giây
+                }
+            }
         }
 
 

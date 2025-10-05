@@ -59,7 +59,7 @@ public class PickupMessageManager : MonoBehaviour
         SpawnAtScreenPoint(screenPoint, content, color, duration);
     }
 
-    public void SpawnAbovePlayer(Vector3 playerWorldPos, float worldYOffset, string content, Color color, float duration = -1f)
+    public void SpawnAbovePlayer(Vector3 playerWorldPos, float worldYOffset, string content, Color color, float duration = 1f)
     {
         SpawnAtWorldPosition(playerWorldPos + Vector3.up * worldYOffset, content, color, duration);
     }

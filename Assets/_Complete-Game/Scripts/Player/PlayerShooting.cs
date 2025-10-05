@@ -74,51 +74,67 @@ namespace CompleteProject
         }
 
 
-        void Shoot ()
+        void Shoot()
         {
-            // Reset the timer.
+            // Reset the timer
             timer = 0f;
 
-            // Play the gun shot audioclip.
-            gunAudio.Play ();
+            // Play gunshot sound
+            if (gunAudio != null) gunAudio.Play();
 
-            // Enable the lights.
-            gunLight.enabled = true;
-			faceLight.enabled = true;
+            // Enable muzzle flash lights
+            if (gunLight != null) gunLight.enabled = true;
+            if (faceLight != null) faceLight.enabled = true;
 
-            // Stop the particles from playing if they were, then start the particles.
-            gunParticles.Stop ();
-            gunParticles.Play ();
+            // Lấy thông tin buff từ PlayerBuffController
+            Color bulletColor = Color.white;
+            float damageMultiplier = 1f;
 
-            // Enable the line renderer and set it's first position to be the end of the gun.
-            gunLine.enabled = true;
-            gunLine.SetPosition (0, transform.position);
+            if (PlayerBuffController.Instance != null)
+            {
+                bulletColor = PlayerBuffController.Instance.GetBulletColor();
+                damageMultiplier = PlayerBuffController.Instance.GetDamageMultiplier();
+            }
 
-            // Set the shootRay so that it starts at the end of the gun and points forward from the barrel.
+            // Set màu cho particle effect
+            if (gunParticles != null)
+            {
+                var main = gunParticles.main;
+                main.startColor = bulletColor;
+                gunParticles.Stop();
+                gunParticles.Play();
+            }
+
+            // Set màu cho line renderer (tia đạn)
+            if (gunLine != null)
+            {
+                gunLine.enabled = true;
+                gunLine.startColor = bulletColor;
+                gunLine.endColor = bulletColor;
+                gunLine.SetPosition(0, transform.position);
+            }
+
+            // Bắn raycast
             shootRay.origin = transform.position;
             shootRay.direction = transform.forward;
 
-            // Perform the raycast against gameobjects on the shootable layer and if it hits something...
-            if(Physics.Raycast (shootRay, out shootHit, range, shootableMask))
+            if (Physics.Raycast(shootRay, out shootHit, range, shootableMask))
             {
-                // Try and find an EnemyHealth script on the gameobject hit.
-                EnemyHealth enemyHealth = shootHit.collider.GetComponent <EnemyHealth> ();
+                EnemyHealth enemyHealth = shootHit.collider.GetComponent<EnemyHealth>();
 
-                // If the EnemyHealth component exist...
-                if(enemyHealth != null)
+                if (enemyHealth != null)
                 {
-                    // ... the enemy should take damage.
-                    enemyHealth.TakeDamage (damagePerShot, shootHit.point);
+                    int finalDamage = Mathf.RoundToInt(damagePerShot * damageMultiplier);
+                    enemyHealth.TakeDamage(finalDamage, shootHit.point);
                 }
 
-                // Set the second position of the line renderer to the point the raycast hit.
-                gunLine.SetPosition (1, shootHit.point);
+                if (gunLine != null)
+                    gunLine.SetPosition(1, shootHit.point);
             }
-            // If the raycast didn't hit anything on the shootable layer...
             else
             {
-                // ... set the second position of the line renderer to the fullest extent of the gun's range.
-                gunLine.SetPosition (1, shootRay.origin + shootRay.direction * range);
+                if (gunLine != null)
+                    gunLine.SetPosition(1, shootRay.origin + shootRay.direction * range);
             }
         }
     }
